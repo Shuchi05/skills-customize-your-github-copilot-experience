@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "FastAPI REST API",
+      "description": "Build a RESTful API using FastAPI and Pydantic data validation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-07-10",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
